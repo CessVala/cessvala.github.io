@@ -34,7 +34,7 @@ permalink: /publications/
 [1]	Forrester A, Rathjen S, Garcia-Castillo MD, Bachert C, Couhert A, Tepshi L, Pichard S, Martinez J, Munier M, Sierocki R, Renard HF, <strong>Valades-Cruz CA</strong>, Dingli F, Loew D, Lamaze C, Cintrat JC, Linstedt A, Gillet D, Barbier J, Johannes L. <a style="color:blue" href="https://www.nature.com/articles/s41589-020-0474-4">Functional Dissection of the Retrograde Shiga Toxin Trafficking Inhibitor Retro-2.</a> Nature Chemical Biology (2020).
 
 <p align="center">
-   <img src="{{ site.baseurl }}/images/24.jpg" width="50%" > 
+   <img src="{{ site.baseurl }}/images/24.jpg" width="40%" > 
 </p>
 
 
