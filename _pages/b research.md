@@ -16,7 +16,7 @@ image: research1.jpg
 
 
 <p align="center">
-   <img src="{{ site.baseurl }}/images/34.jpg" width="40%" > 
+   <img src="{{ site.baseurl }}/images/34.jpg" width="300px" > 
    <em>Ultrastructure imaging</em>
 </p>
 
@@ -31,7 +31,7 @@ image: research1.jpg
 <strong>About: </strong>INRIA IPL project, initiated to implement novel machine-learning methods able to detect the main regions of interest, and automatic quantification of sparse sets of molecular interactions and cell processes during navigation to save memory and computational resources.
 
 <p align="center">
-   <img src="{{ site.baseurl }}/images/35.jpg" width="40%" > 
+   <img src="{{ site.baseurl }}/images/35.jpg" width="300px" > 
    <em>3D spots and cell segmentation</em>
 </p>
 
@@ -40,7 +40,7 @@ image: research1.jpg
 <strong>About: </strong>Analysis of different modes of endocytosis: clathrin-mediated, and glyco(sphingo)lipid/lectin (termed GL-Lect)-mediated, using LLSM and single particle 3D tracking.
 
 <p align="center">
-   <img src="{{ site.baseurl }}/images/36.jpg" width="40%" > 
+   <img src="{{ site.baseurl }}/images/36.jpg" width="300px" > 
    <em>LLSM and 3D single particle tracking</em>
 </p>
 
@@ -54,7 +54,7 @@ image: research1.jpg
 <strong>About: </strong> Ongoing project of the Serpico-STED Team in the frame of the NRI (National Research Infrastructure – France BioImaging) and dissemination toward the 18 Imaging Facilities that constitute the Core of the Infrastructure.
 
 <p align="center">
-   <img src="{{ site.baseurl }}/images/37.jpg" width="50%" > 
+   <img src="{{ site.baseurl }}/images/37.jpg" width="300px" > 
    <em>BioImageIT</em>
 </p>
 
