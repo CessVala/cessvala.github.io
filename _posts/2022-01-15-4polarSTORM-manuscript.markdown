@@ -6,7 +6,7 @@ image:  14.jpg
 tags:   Manuscripts
 ---
 
-Very happy to share it with you my last publications in collaboration with Sophie Brasselet’s Team, Fresnel Institute.
+Very happy to share with you, my last co-first author publication in collaboration with Sophie Brasselet’s Team, Fresnel Institute.
 
 <strong>4polar-STORM polarized super-resolution imaging of actin filament organization in cells.</strong>
 
