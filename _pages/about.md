@@ -23,7 +23,7 @@ image: me2.jpg
 ### <u> Postdoctoral Researcher:</u>  Serpico/STED Team 
 <b>01/2022 - Current</b> *Project: Polarization Microscopy for Imaging of Membrane Organization (PoMIMO).*
 
-<p align="justify">LabEx Cell(n)Scale collaborative project between Inria and Curie Institute. Implemention of polarization module in a STORM-TIRFM (PolarSTORM) system at Curie Institute. Developing of image analysis workflow of biomolecules tracking and estimating spatial high-resolution maps of molecular mobility.</p>
+<p align="justify">LabEx Cell(n)Scale collaborative project between Inria and Curie Institute. Implementation of polarization module in a STORM-TIRFM (PolarSTORM) system at Curie Institute. Developing of image analysis workflow of biomolecules tracking and estimating spatial high-resolution maps of molecular mobility.</p>
 
 
 ### <u> Research engineer:</u> Inria-Myriade Biotech 
