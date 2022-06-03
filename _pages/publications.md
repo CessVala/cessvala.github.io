@@ -28,6 +28,12 @@ permalink: /publications/
    <img src="{{ site.baseurl }}/images/17.jpg" width="100%" > 
 </p>
 
+#### <a style="color:red"> Corresponding author publications </a>
+
+[1]   Prigent S, <strong>Valades-Cruz CA</strong>, Leconte L, Salamero J, Kervrann C. <a style="color:blue" href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac365/6594114?guestAccessKey=e369f463-177b-4c5a-b034-6cf40faa35a7">STracking: a free and open-source Python library for particle tracking and analysis.</a> Bioinformatics (2022). 
+<p align="center">
+   <img src="{{ site.baseurl }}/images/38.jpg" width="80%" > 
+</p>
 
 #### <a style="color:red"> Other publications </a>
 
