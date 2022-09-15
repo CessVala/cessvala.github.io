@@ -67,13 +67,17 @@ permalink: /publications/
 </p>
 
 
-#### <a style="color:red"> Reviews & comments </a>
+#### <a style="color:red"> Reviews, Perspective & Comments </a>
 
-[1]	Johannes, L., <strong>Valades-Cruz, C. A. </strong> <a style="color:blue" href="https://www.nature.com/articles/s41556-021-00711-z">The final twist in endocytic membrane scission.</a> Nature Cell Biology (2021).
+[1]	Johannes L, <strong>Valades-Cruz CA</strong> <a style="color:blue" href="https://www.nature.com/articles/s41556-021-00711-z">The final twist in endocytic membrane scission.</a> Nature Cell Biology (2021).
 <p align="center">
    <img src="{{ site.baseurl }}/images/23.jpg" width="80%" > 
 </p>
 
+[2]   <strong>Valades-Cruz CA</strong><span>&#42;</span>, Leconte L<span>&#42;</span>, Fouche G<span>&#42;</span>, Blanc T<span>&#42;</span>, Van Hille N<span>&#42;</span>, Fournier K, Laurent T, Gallean B, Deslandes F, Hajj B, Faure E, Argelaguet F, Trubuil A, Isenberg T, Masson J-B, Salamero J, Kervrann C <a style="color:blue" href="https://www.frontiersin.org/articles/10.3389/fbinf.2022.997082/full"> Challenges of intracellular visualization using virtual and augmented reality. </a> Frontiers in Bioinformatics (2022). 
+<p align="center">
+   <img src="{{ site.baseurl }}/images/40b.jpg" width="80%" > 
+</p>
 
 #### <a style="color:red"> Proceedings </a>
 
