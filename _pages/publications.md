@@ -84,7 +84,12 @@ permalink: /publications/
 
 #### <a style="color:red"> Preprints and submitted papers </a>
 
-[1]	Prigent, S., Nguyen, H-N., Leconte, L., <strong>Valades-Cruz, C. A.</strong>, Hajj, B., Salamero, J., Kervrann, C. <a style="color:blue" href="https://www.biorxiv.org/content/10.1101/2022.01.04.474883v1">SPITFIR(e): A supermaneuverable algorithm for restoring 2D-3D fluorescence images and videos, and background subtraction.</a> bioRxiv (2022)
+[1]	Abdellah, M.<span>&#42;</span>, <strong>Valades-Cruz, C. A.</strong><span>&#42;</span>, Barth, R., Shaban, H. A. <a style="color:blue" href="https://doi.org/10.1101/2022.11.17.516893">Genome-wide analysis of the dynamic and biophysical properties of chromatin and nuclear proteins in living cells with Hi-D.</a> bioRxiv (2022)
+<p align="center">
+   <img src="{{ site.baseurl }}/images/41.jpg" width="100%" > 
+</p>
+
+[2]	Prigent, S., Nguyen, H-N., Leconte, L., <strong>Valades-Cruz, C. A.</strong>, Hajj, B., Salamero, J., Kervrann, C. <a style="color:blue" href="https://doi.org/10.1101/2022.01.04.474883">SPITFIR(e): A supermaneuverable algorithm for restoring 2D-3D fluorescence images and videos, and background subtraction.</a> bioRxiv (2022)
 <p align="center">
    <img src="{{ site.baseurl }}/images/25.jpg" width="70%" > 
 </p>
