@@ -5,7 +5,7 @@ permalink: /about/
 image: me2.jpg
 ---
 
-<p align="justify">Hi, my name is Cesar Augusto Valades-Cruz. I am bioimage analyst. My projects are focused on microscope development and image analysis.</p>
+<p align="justify">Hi, my name is Cesar Augusto Valades-Cruz. I am researcher and bioimage analyst. My projects are focused on microscope development and image analysis.</p>
 
 <p align="justify">My background is quite broad as I studied Mechatronics Engineering. Then, I got a MSc in Nanophotonics. Later, I completed a PhD in Biophotonics from Fresnel Institute and ICFO. My master and PhD were founded by Erasmus Mundus. My PhD was centered on quantitative nanoscale imaging of orientational order in biological filaments (actin stress fibers and microtubules), DNA and amyloid protofilaments. During my PhD, I built and optimized a dSTORM microscope with polarized detection. This is where my love for image processing and photonics began to drive my career.</p>
 
