@@ -38,32 +38,38 @@ permalink: /publications/
 
 #### <a style="color:red"> Other publications </a>
 
-[1]	Prigent, S., Nguyen, H-N., Leconte, L., <strong>Valades-Cruz, C. A.</strong>, Hajj, B., Salamero, J., Kervrann, C. <a style="color:blue" href="https://doi.org/10.1038/s41598-022-26178-y">SPITFIR(e): a supermaneuverable algorithm for fast denoising and deconvolution of 3D fluorescence microscopy images and videos.</a> Scientific Reports (2023)
+[1] Lemaigre, C., Ceuppens, A., <strong>Valades-Cruz, C.A.</strong>, Ledoux, B., Vanbeneden, B., Hassan, M., Zetterberg, F.R., Nilsson, U.J., Johannes, L., Wunder, C., Renard, H.-F. and Morsomme, P. <a style="color:blue" href="https://doi.org/10.1111/tra.12883"> N-BAR and F-BAR proteins – Endophilin-A3 and PSTPIP1 – control clathrin-independent endocytosis of L1CAM.</a> Traffic. (2023)
+<p align="center">
+   <img src="{{ site.baseurl }}/images/cd171.jpg" width="70%" > 
+</p>
+
+
+[2]	Prigent, S., Nguyen, H-N., Leconte, L., <strong>Valades-Cruz, C. A.</strong>, Hajj, B., Salamero, J., Kervrann, C. <a style="color:blue" href="https://doi.org/10.1038/s41598-022-26178-y">SPITFIR(e): a supermaneuverable algorithm for fast denoising and deconvolution of 3D fluorescence microscopy images and videos.</a> Scientific Reports (2023)
 <p align="center">
    <img src="{{ site.baseurl }}/images/25.jpg" width="70%" > 
 </p>
 
-[2]	Forrester A, Rathjen S, Garcia-Castillo MD, Bachert C, Couhert A, Tepshi L, Pichard S, Martinez J, Munier M, Sierocki R, Renard HF, <strong>Valades-Cruz CA</strong>, Dingli F, Loew D, Lamaze C, Cintrat JC, Linstedt A, Gillet D, Barbier J, Johannes L. <a style="color:blue" href="https://www.nature.com/articles/s41589-020-0474-4">Functional Dissection of the Retrograde Shiga Toxin Trafficking Inhibitor Retro-2.</a> Nature Chemical Biology (2020).
+[3]	Forrester A, Rathjen S, Garcia-Castillo MD, Bachert C, Couhert A, Tepshi L, Pichard S, Martinez J, Munier M, Sierocki R, Renard HF, <strong>Valades-Cruz CA</strong>, Dingli F, Loew D, Lamaze C, Cintrat JC, Linstedt A, Gillet D, Barbier J, Johannes L. <a style="color:blue" href="https://www.nature.com/articles/s41589-020-0474-4">Functional Dissection of the Retrograde Shiga Toxin Trafficking Inhibitor Retro-2.</a> Nature Chemical Biology (2020).
 <p align="center">
    <img src="{{ site.baseurl }}/images/24.jpg" width="40%" > 
 </p>
 
-[3]	Renard, H-F, Tyckaert, F., Lo Giudice, C., Hirsch, T., <strong>Valades-Cruz, C. A.</strong>, Lemaigre, C., Shafaq-Zadah, M., Wunder, C., Wattiez, R., Johannes, L., van der Bruggen, P., Alsteens, D., Morsomme, P. <a style="color:blue" href="https://www.nature.com/articles/s41467-020-15303-y">Endophilin-A3 and Galectin-8 control the clathrin-independent endocytosis of CD166.</a> Nature Communications (2020). 
+[4]	Renard, H-F, Tyckaert, F., Lo Giudice, C., Hirsch, T., <strong>Valades-Cruz, C. A.</strong>, Lemaigre, C., Shafaq-Zadah, M., Wunder, C., Wattiez, R., Johannes, L., van der Bruggen, P., Alsteens, D., Morsomme, P. <a style="color:blue" href="https://www.nature.com/articles/s41467-020-15303-y">Endophilin-A3 and Galectin-8 control the clathrin-independent endocytosis of CD166.</a> Nature Communications (2020). 
 <p align="center">
    <img src="{{ site.baseurl }}/images/20.jpg" width="80%" > 
 </p>
 
-[4]	Briane V, Vimond M, <strong>Valades-Cruz CA</strong>, Salomon A, Wunder C, Kervrann C. <a style="color:blue" href="https://academic.oup.com/bioinformatics/article/36/1/317/5520435">A sequential algorithm to detect diffusion switching along intracellular particle trajectories.</a> Bioinformatics (2020). 
+[5]	Briane V, Vimond M, <strong>Valades-Cruz CA</strong>, Salomon A, Wunder C, Kervrann C. <a style="color:blue" href="https://academic.oup.com/bioinformatics/article/36/1/317/5520435">A sequential algorithm to detect diffusion switching along intracellular particle trajectories.</a> Bioinformatics (2020). 
 <p align="center">
    <img src="{{ site.baseurl }}/images/19.jpg" width="80%" > 
 </p>
 
-[5]	Torrino S, Shen W, Blouin C, Kailasam Mani S., Viaris de Lesegno C, Bost P, Grassard A, Köster D, <strong>Valades-Cruz CA</strong>, Chambon V, Johannes L, Pierobon P, Soumelis V, Coirault C, Vassilopoulos S, Lamaze C. <a style="color:blue" href="https://doi.org/10.1083/jcb.201801122">EHD2 is a mechanotransducer connecting caveolae dynamics with gene transcription.</a> J Cell Biol. (2018). 
+[6]	Torrino S, Shen W, Blouin C, Kailasam Mani S., Viaris de Lesegno C, Bost P, Grassard A, Köster D, <strong>Valades-Cruz CA</strong>, Chambon V, Johannes L, Pierobon P, Soumelis V, Coirault C, Vassilopoulos S, Lamaze C. <a style="color:blue" href="https://doi.org/10.1083/jcb.201801122">EHD2 is a mechanotransducer connecting caveolae dynamics with gene transcription.</a> J Cell Biol. (2018). 
 <p align="center">
    <img src="{{ site.baseurl }}/images/18.jpg" width="100%" > 
 </p>
 
-[6] Banerjee A, Grazon C, Pons T, Bhatia D, <strong>Valades-Cruz CA</strong>, Johannes L, Krishnan Y, Dubertret B. <a style="color:blue" href="https://pubs.rsc.org/en/content/articlelanding/2017/NR/C7NR05838A">A Novel Type of Quantum Dot–Transferrin Conjugate Using DNA Hybridization Mimics Intracellular Recycling of Endogenous Transferrin.</a> Nanoscale (2018). 
+[7] Banerjee A, Grazon C, Pons T, Bhatia D, <strong>Valades-Cruz CA</strong>, Johannes L, Krishnan Y, Dubertret B. <a style="color:blue" href="https://pubs.rsc.org/en/content/articlelanding/2017/NR/C7NR05838A">A Novel Type of Quantum Dot–Transferrin Conjugate Using DNA Hybridization Mimics Intracellular Recycling of Endogenous Transferrin.</a> Nanoscale (2018). 
 <p align="center">
    <img src="{{ site.baseurl }}/images/22.jpg" width="80%" > 
 </p>

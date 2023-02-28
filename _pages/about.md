@@ -82,7 +82,7 @@ image: me2.jpg
 ***
 # Awards
 
-<b>2020-2022</b> Member of the Mexican National Research System (SNI 1)
+<b>2020-2024</b> Member of the Mexican National Research System (SNI 1)
 
 <b>2010-2014</b> Erasmus Mundus Fellowship for PhD	
 
