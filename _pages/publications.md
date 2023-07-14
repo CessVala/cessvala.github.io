@@ -95,9 +95,14 @@ permalink: /publications/
 
 #### <a style="color:red"> Preprints and submitted papers </a>
 
-[1]	Abdellah, M.<span>&#42;</span>, <strong>Valades-Cruz, C. A.</strong><span>&#42;</span>, Barth, R., Shaban, H. A. <a style="color:blue" href="https://doi.org/10.1101/2022.11.17.516893">Genome-wide analysis of the dynamic and biophysical properties of chromatin and nuclear proteins in living cells with Hi-D.</a> bioRxiv (2022)
+[1]	Abdellah M.<span>&#42;</span>, <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Barth R., Shaban H. A. <a style="color:blue" href="https://doi.org/10.1101/2022.11.17.516893">Genome-wide analysis of the dynamic and biophysical properties of chromatin and nuclear proteins in living cells with Hi-D.</a> bioRxiv (2022)
 <p align="center">
    <img src="{{ site.baseurl }}/images/41.jpg" width="100%" > 
+</p>
+
+[2]	Papereux S.<span>&#42;</span>, Leconte L.<span>&#42;</span>, <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Liu T., Dumont J., Chen Z., Salamero J., Kervrann C., Badoual A. <a style="color:blue" href="https://doi.org/10.1101/2023.07.05.547594">DeepCristae, a CNN for the restoration of mitochondria cristae in live microscopy images</a> bioRxiv (2023)
+<p align="center">
+   <img src="{{ site.baseurl }}/images/DeepCristae_Mitochondria.png" width="50%" > 
 </p>
 
 
