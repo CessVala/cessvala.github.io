@@ -19,4 +19,4 @@ Check out the [Preprint][manuscript-Hi-D-Py]
 
 
 [manuscript-Hi-D-Py]: https://doi.org/10.1101/2022.11.17.516893
-[link-Hi-D-Py]: https://github.com/marwan-abdellah/hidpy
+[link-Hi-D-Py]: https://github.com/haitham-shaban/hidpy
