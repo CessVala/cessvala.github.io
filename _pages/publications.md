@@ -100,10 +100,14 @@ permalink: /publications/
    <img src="{{ site.baseurl }}/images/41.jpg" width="100%" > 
 </p>
 
-[2]	Papereux S.<span>&#42;</span>, Leconte L.<span>&#42;</span>, <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Liu T., Dumont J., Chen Z., Salamero J., Kervrann C., Badoual A. <a style="color:blue" href="https://doi.org/10.1101/2023.07.05.547594">DeepCristae, a CNN for the restoration of mitochondria cristae in live microscopy images</a> bioRxiv (2023)
+[2]	Papereux S.<span>&#42;</span>, Leconte L.<span>&#42;</span>, <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Liu T., Dumont J., Chen Z., Salamero J., Kervrann C., Badoual A. <a style="color:blue" href="https://doi.org/10.1101/2023.07.05.547594">DeepCristae, a CNN for the restoration of mitochondria cristae in live microscopy images.</a> bioRxiv (2023)
 <p align="center">
    <img src="{{ site.baseurl }}/images/DeepCristae_Mitochondria.png" width="50%" > 
 </p>
 
+[3]	MacDonald E., Forrester A., <strong>Valades-Cruz C. A.</strong>, Madsen T. D., Hetmanski J., Dransart E., Ng Y., Godbole R., Shp A. A., Leconte L., Chambon V., Ghosh D., Pinet A., Bhatia D. D., Lombard B., Loew D., Larsen M. R., Leffler H., Lefeber D., Clausen H., Caswell P. T., Shafaq-Zadah M., Mayor S., Weigert R., Wunder C., Johannes L. <a style="color:blue" href="https://doi.org/10.1101/2023.09.12.557183">Growth factor-induced desialylation for the fast control of endocytosis.</a> bioRxiv (2023)
+<p align="center">
+   <img src="{{ site.baseurl }}/images/43.png" width="50%" > 
+</p>
 
 
