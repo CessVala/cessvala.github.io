@@ -2,7 +2,7 @@
 layout: post
 title:  Spatial glycan rearrangement in BioRxiv.
 date:   2023-10-27 15:00:00 +0100
-image:  44.jpg
+image:  44.png
 tags:   Preprints
 ---
 
