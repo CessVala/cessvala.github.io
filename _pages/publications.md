@@ -110,4 +110,8 @@ permalink: /publications/
    <img src="{{ site.baseurl }}/images/43.png" width="50%" > 
 </p>
 
+[4]	Shafaq-Zadah M., Dransart E., Wunder C., Chambon V., <strong>Valades-Cruz C. A.</strong>, Leconte L., Sarangi N. K., Robinson J., Bai S-K., Regmi R., Di Cicco A., Hovasse A., Bartels R., Nilsson U.J., Cianférani-Sanglier S., Leffler H., Keyes T. E., Lévy D., Raunser S., Roderer D., Johannes L. <a style="color:blue" href="https://doi.org/10.1101/2023.10.27.564026">Spatial N-glycan rearrangement on α5β1 integrin nucleates galectin-3 oligomers to determine endocytic fate.</a> bioRxiv (2023)
+<p align="center">
+   <img src="{{ site.baseurl }}/images/44.jpg" width="50%" > 
+</p>
 
