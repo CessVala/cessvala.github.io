@@ -5,7 +5,7 @@ permalink: /about/
 image: me2.jpg
 ---
 
-<p align="justify">Hi, my name is Cesar Augusto Valades-Cruz. I am researcher and bioimage analyst. My projects are focused on microscope development and image analysis.</p>
+<p align="justify">Hi, my name is Cesar Augusto Valades-Cruz. I am Bioimage Analyst and Associate Researcher at Institute of Hydrobiology, Chinese Academy of Sciences. My projects are focused on microscope development and image analysis.</p>
 
 <p align="justify">My background is quite broad as I studied Mechatronics Engineering. Then, I got a MSc in Nanophotonics. Later, I completed a PhD in Biophotonics from Fresnel Institute and ICFO. My master and PhD were founded by Erasmus Mundus. My PhD was centered on quantitative nanoscale imaging of orientational order in biological filaments (actin stress fibers and microtubules), DNA and amyloid protofilaments. During my PhD, I built and optimized a dSTORM microscope with polarized detection. This is where my love for image processing and photonics began to drive my career.</p>
 
@@ -13,18 +13,24 @@ image: me2.jpg
 
 <p align="justify">In addition, I work in close collaboration with private companies including: Myriade (Biotech startup) and Gataca Systems.</p>
 
-<p align="justify">Finally, I am a founder member of the LightSheet Community "Wildsheet", aiming to bring together users of light sheet instruments to share knowledge and best practices.
+<p align="justify">I was a founder member of the LightSheet Community "Wildsheet", aiming to bring together users of light sheet instruments to share knowledge and best practices.
 </p>
 
+<p align="justify">Currently, I am Associate Researcher in the Algal Growth and Development team, led by Prof. Cheng-Cai Zhang at the Institute of Hydrobiology (IHB) of the Chinese Academy of Sciences in Wuhan, China.
+</p>
 
 ***
 # Research experience #
 
-### <u> Postdoctoral Researcher:</u>  Serpico/STED Team 
+### <u> Associate Researcher:</u> Algal Growth and Development TEAM (Prof. Cheng-Cai Zhang)
+<b>01/2023 - Current</b>
+
+<p align="justify">Research focus on the study of the growth and differentiation of cyanobacterial cells using advance microscopy and machine learning algorithms. </p>
+
+### <u> Postdoctoral Researcher:</u> Serpico/STED Team 
 <b>01/2022 - 01/2023</b> *Project: Polarization Microscopy for Imaging of Membrane Organization (PoMIMO).*
 
 <p align="justify">LabEx Cell(n)Scale collaborative project between Inria and Curie Institute. Implementation of polarization module in a STORM-TIRFM (PolarSTORM) system at Curie Institute. Developing of image analysis workflow of biomolecules tracking and estimating spatial high-resolution maps of molecular mobility.</p>
-
 
 ### <u> Research engineer:</u> Inria-Myriade Biotech 
 <b>01/2021 - 12/2021</b> *Project: Improvement of tracking and size estimation of virus and extracellular vesicles.*
