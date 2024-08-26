@@ -2,10 +2,35 @@
 layout: page
 title: RESEARCH
 permalink: /research/
-image: research1.jpg
+image: research_IHB.jpg
 ---
 
-<p align="justify">Biological imaging has experienced a big development of new microscopy techniques that allows visualization of sub-cellular components and organelles, with better spatial and temporal resolution. Nevertheless, the interaction between cell biology, fluorescence microscopy and informatics brings new challenges, including big data analysis and 4D visualization. During my research career, I have focused mainly on image processing and data analysis of two different multi-disciplinary problems: Quantitative nanoscale imaging of orientational order and 3D Intracellular process tracking and visualization. In addition, I work in Data pre-processing and Data management.</p>
+<p align="justify">
+<strong>Biological</strong> imaging has seen significant advancements in new microscopy techniques, allowing for the visualization of sub-cellular components with <strong>improved spatial and temporal resolution</strong>. Nevertheless, the interaction between <strong>biology</strong>, <strong>fluorescence microscopy</strong> and <strong>informatics</strong> brings new challenges, including big data analysis and 4D visualization. 
+</p>
+
+<p align="justify">
+<strong>My current research focuses</strong> on studying the cell division mechanism of cyanobacteria. This involves developing automatic tracking methods for single cells, single filaments, or cell populations, as well as multidimensional image analysis techniques using <strong>deep learning</strong>.
+</p>
+
+<p align="justify">
+To achieve this, I work on image processing and data analysis across various multidisciplinary problems, including <strong>quantitative nanoscale imaging of orientational order</strong> and <strong>3D intracellular process tracking and visualization</strong>. Additionally, I am involved in data pre-processing and data management.
+</p>
+
+***
+## <a style="color:red">Image analysis framework for cyanobacteria.</a>
+
+#### Deep learning-based algorithms for cell segmentation and tracking. 
+
+ <strong>About: </strong> Research focus on the study of cell division mechanisms of cyanobacteria cells using image analysis algorithms.
+
+
+<p align="center">
+   <img src="{{ site.baseurl }}/images/framework_cyanobacteria.jpg" width="60%" > 
+   <em>Cell segmentation</em>
+</p>
+
+
 
 ***
 ## <a style="color:red">Quantitative nanoscale imaging of orientational order.</a>

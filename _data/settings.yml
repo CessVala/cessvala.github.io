@@ -9,7 +9,8 @@ description: Personal Website of Cesar Valades.
 # Author Settings
 author:
   name: Cesar Augusto Valades-Cruz
-  image: 01.jpg
+  #image: 01.jpg
+  image: Main_figure_v2.jpg
   say-hello: Hello, I’m <strong>Cesar Valades</strong>
   bio: <strong><a style="color:blue">Bioimage Analyst</a></strong> - <strong>Associate Researcher</strong> at Institute of Hydrobiology, Chinese Academy of Sciences. <strong><a style="color:red">Loves</a></strong> microscopy, image analysis, basketball & dancing.
   #bio: Postdoctoral Researcher and Bioimage Analyst at <strong><a style="color:red" href="https://team.inria.fr/serpico/team-members/">Serpico/STED Team</a></strong> of <strong><a  style="color:black" href="https://science.institut-curie.org/"> Curie Institute</a></strong> and <strong><a  style="color:black" href="https://www.inria.fr/en">Inria Rennes - Bretagne Atlantique</a></strong>. <strong><a style="color:red">Loves</a></strong> microscopy, image analysis, basketball & dancing.
@@ -17,7 +18,7 @@ author:
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/CessVala # Add your Twitter handle
+twitter: https://x.com/CessVala # Add your Twitter handle
 github: https://github.com/CessVala/ 
 linkedin: https://www.linkedin.com/in/cesarvalades/
 google-scholar: https://scholar.google.fr/citations?user=pM3pEDsAAAAJ/
