@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Spatial glycan rearrangement in BioRxiv.
+title:  Spatial glycan rearrangement in BioRxiv. 
 date:   2023-10-27 15:00:00 +0100
 image:  44.png
-tags:   Preprints
+tags:   Preprints  
 ---
 
 Excited to share with you the latest preprint in which I have contributed analyzing LLSM data in spatial glycan rearrangement. 

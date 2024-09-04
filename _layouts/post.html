@@ -20,8 +20,8 @@ layout: default
           {% if page.tags.size >= 1 %}
           <div class="post__tags">
             {% for tag in page.tags %}
-              <!-- <a href="{{ site.baseurl }}/tag/{{ tag }}" class="post__tags-tag">{{ tag }}</a> -->
-              <a href="{{ site.baseurl }}/tag/{{ tag | downcase | replace: " ", "-" }}" class="post__tags-tag">{{ tag }}</a>
+              <a href="{{ site.baseurl }}/tag/{{ tag }}" style="pointer-events: none" class="post__tags-tag">{{ tag }}</a>
+              <!-- <a href="{{ site.baseurl }}/tag/{{ tag | downcase | replace: " ", "-" }}" class="post__tags-tag">{{ tag }}</a> -->
             {% endfor %}
           </div>
           {% endif %}

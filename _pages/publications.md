@@ -9,22 +9,27 @@ permalink: /publications/
 
 #### <a style="color:red"> First author publications </a>
 
-[1]	Prigent, S.<span>&#42;</span>, <strong>Valades-Cruz, C. A.</strong><span>&#42;</span>, Leconte, L.<span>&#42;</span>, Maury, L., Salamero, J., Kervrann, C. <a style="color:blue" href="https://rdcu.be/cW6qq">BioImageIT: Open-source framework for integration of image data-management with analysis.</a> Nature Methods (2022).
+[1]	<strong>Valades-Cruz, C. A.</strong><span>&#42;</span>, Barth, R.<span>&#42;</span>, Abdellah, M.<span>&#42;</span>, Shaban, H. A. <a style="color:blue" href="https://rdcu.be/dSfk9">Genome-wide analysis of the biophysical properties of chromatin and nuclear proteins in living cells with Hi-D.</a> Nature Protocols (2024).
+<p align="center">
+   <img src="{{ site.baseurl }}/images/Screenshot_HiDpy.png" width="100%" > 
+</p>
+
+[2]	Prigent, S.<span>&#42;</span>, <strong>Valades-Cruz, C. A.</strong><span>&#42;</span>, Leconte, L.<span>&#42;</span>, Maury, L., Salamero, J., Kervrann, C. <a style="color:blue" href="https://rdcu.be/cW6qq">BioImageIT: Open-source framework for integration of image data-management with analysis.</a> Nature Methods (2022).
 <p align="center">
    <img src="{{ site.baseurl }}/images/BioImageIT_Tweet4.png" width="80%" > 
 </p>
 
-[2]	Vaz Rimoli, C.<span>&#42;</span>, <strong>Valades-Cruz, C. A.</strong><span>&#42;</span>, Curcio, V., Mavrakis, M., Brasselet, S. <a style="color:blue" href="https://www.nature.com/articles/s41467-022-27966-w">4polar-STORM polarized super-resolution imaging of actin filament organization in cells.</a> Nature Communications (2022). 
+[3]	Vaz Rimoli, C.<span>&#42;</span>, <strong>Valades-Cruz, C. A.</strong><span>&#42;</span>, Curcio, V., Mavrakis, M., Brasselet, S. <a style="color:blue" href="https://www.nature.com/articles/s41467-022-27966-w">4polar-STORM polarized super-resolution imaging of actin filament organization in cells.</a> Nature Communications (2022). 
 <p align="center">
    <img src="{{ site.baseurl }}/images/15.jpg" width="100%" > 
 </p>
 
-[3] Shaban H<span>&#42;</span>, <strong>Valades-Cruz CA</strong><span>&#42;</span> , Savatier J, Brasselet S. <a style="color:blue" href="https://www.nature.com/articles/s41598-017-12864-9">Polarized super-resolution structural imaging inside amyloid fibrils using Thioflavine T.</a> Scientific Reports (2017).
+[4] Shaban H<span>&#42;</span>, <strong>Valades-Cruz CA</strong><span>&#42;</span> , Savatier J, Brasselet S. <a style="color:blue" href="https://www.nature.com/articles/s41598-017-12864-9">Polarized super-resolution structural imaging inside amyloid fibrils using Thioflavine T.</a> Scientific Reports (2017).
 <p align="center">
    <img src="{{ site.baseurl }}/images/16.jpg" width="100%" > 
 </p>
 
-[4] <strong>Valades-Cruz CA</strong><span>&#42;</span>, Shaban H<span>&#42;</span> , Kress A, Bertaux N, Monneret S, Mavrakis M, Savatier J, Brasselet S. <a style="color:blue" href="https://www.pnas.org/content/113/7/E820">Quantitative nanoscale imaging of orientational order in biological filaments by polarized superresolution microscopy.</a> PNAS (2016). 
+[5] <strong>Valades-Cruz CA</strong><span>&#42;</span>, Shaban H<span>&#42;</span> , Kress A, Bertaux N, Monneret S, Mavrakis M, Savatier J, Brasselet S. <a style="color:blue" href="https://www.pnas.org/content/113/7/E820">Quantitative nanoscale imaging of orientational order in biological filaments by polarized superresolution microscopy.</a> PNAS (2016). 
 <p align="center">
    <img src="{{ site.baseurl }}/images/17.jpg" width="100%" > 
 </p>
@@ -95,23 +100,17 @@ permalink: /publications/
 
 #### <a style="color:red"> Preprints and submitted papers </a>
 
-[1]	<strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Barth R.<span>&#42;</span>, Abdellah M.<span>&#42;</span>, Shaban H. A. <a style="color:blue" href="https://doi.org/10.1101/2022.11.17.516893">Genome-wide analysis of the dynamic and biophysical properties of chromatin and nuclear proteins in living cells with Hi-D.</a> bioRxiv (2022)
-<p align="center">
-   <img src="{{ site.baseurl }}/images/41.jpg" width="100%" > 
-</p>
-
-[2]	Papereux S.<span>&#42;</span>, Leconte L.<span>&#42;</span>, <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Liu T., Dumont J., Chen Z., Salamero J., Kervrann C., Badoual A. <a style="color:blue" href="https://doi.org/10.1101/2023.07.05.547594">DeepCristae, a CNN for the restoration of mitochondria cristae in live microscopy images.</a> bioRxiv (2023)
+[1]	Papereux S.<span>&#42;</span>, Leconte L.<span>&#42;</span>, <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Liu T., Dumont J., Chen Z., Salamero J., Kervrann C., Badoual A. <a style="color:blue" href="https://doi.org/10.1101/2023.07.05.547594">DeepCristae, a CNN for the restoration of mitochondria cristae in live microscopy images.</a> bioRxiv (2023)
 <p align="center">
    <img src="{{ site.baseurl }}/images/DeepCristae_Mitochondria.png" width="50%" > 
 </p>
 
-[3]	MacDonald E., Forrester A., <strong>Valades-Cruz C. A.</strong>, Madsen T. D., Hetmanski J., Dransart E., Ng Y., Godbole R., Shp A. A., Leconte L., Chambon V., Ghosh D., Pinet A., Bhatia D. D., Lombard B., Loew D., Larsen M. R., Leffler H., Lefeber D., Clausen H., Caswell P. T., Shafaq-Zadah M., Mayor S., Weigert R., Wunder C., Johannes L. <a style="color:blue" href="https://doi.org/10.1101/2023.09.12.557183">Growth factor-induced desialylation for the fast control of endocytosis.</a> bioRxiv (2023)
+[2]	MacDonald E., Forrester A., <strong>Valades-Cruz C. A.</strong>, Madsen T. D., Hetmanski J., Dransart E., Ng Y., Godbole R., Shp A. A., Leconte L., Chambon V., Ghosh D., Pinet A., Bhatia D. D., Lombard B., Loew D., Larsen M. R., Leffler H., Lefeber D., Clausen H., Caswell P. T., Shafaq-Zadah M., Mayor S., Weigert R., Wunder C., Johannes L. <a style="color:blue" href="https://doi.org/10.1101/2023.09.12.557183">Growth factor-induced desialylation for the fast control of endocytosis.</a> bioRxiv (2023)
 <p align="center">
    <img src="{{ site.baseurl }}/images/43.png" width="50%" > 
 </p>
 
-[4]	Shafaq-Zadah M., Dransart E., Wunder C., Chambon V., <strong>Valades-Cruz C. A.</strong>, Leconte L., Sarangi N. K., Robinson J., Bai S-K., Regmi R., Di Cicco A., Hovasse A., Bartels R., Nilsson U.J., Cianférani-Sanglier S., Leffler H., Keyes T. E., Lévy D., Raunser S., Roderer D., Johannes L. <a style="color:blue" href="https://doi.org/10.1101/2023.10.27.564026">Spatial N-glycan rearrangement on α5β1 integrin nucleates galectin-3 oligomers to determine endocytic fate.</a> bioRxiv (2023)
+[3]	Shafaq-Zadah M., Dransart E., Wunder C., Chambon V., <strong>Valades-Cruz C. A.</strong>, Leconte L., Sarangi N. K., Robinson J., Bai S-K., Regmi R., Di Cicco A., Hovasse A., Bartels R., Nilsson U.J., Cianférani-Sanglier S., Leffler H., Keyes T. E., Lévy D., Raunser S., Roderer D., Johannes L. <a style="color:blue" href="https://doi.org/10.1101/2023.10.27.564026">Spatial N-glycan rearrangement on α5β1 integrin nucleates galectin-3 oligomers to determine endocytic fate.</a> bioRxiv (2023)
 <p align="center">
    <img src="{{ site.baseurl }}/images/44.png" width="50%" > 
 </p>
-
