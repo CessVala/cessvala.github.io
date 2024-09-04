@@ -6,7 +6,7 @@ image:  Screenshot_HiDpy_post.png
 tags:   Manuscripts
 ---
 
-Very happy to share with you, my recent co-first author publication in collaboration with with Roman Barth, Marwan Abdellah and Haitham A. Shaban.
+Very happy to share with you, my recent co-first author publication in collaboration with Roman Barth, Marwan Abdellah and Haitham A. Shaban.
 
 Hi-D is a software capable of detecting, classifying, mapping, and analyzing the movements of genetic material across the genome in living cells.
 
