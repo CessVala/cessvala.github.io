@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Beta1 integrin endocytosis imaged by LLSM, published in Nature Cell Biology
+title:  Beta1 integrin endocytosis imaged by LLSM, published in Nature Cell Biology.
 date:   2025-02-21 10:00:00 +0100
 image:  beta1NCB_crop.png
 tags:   Manuscripts
