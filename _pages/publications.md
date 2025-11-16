@@ -9,98 +9,103 @@ permalink: /publications/
 
 #### <a style="color:red"> First author publications </a>
 
-[1]	<strong>Valades-Cruz, C. A.</strong><span>&#42;</span>, Barth, R.<span>&#42;</span>, Abdellah, M.<span>&#42;</span>, Shaban, H. A. <a style="color:blue" href="https://rdcu.be/dSfk9">Genome-wide analysis of the biophysical properties of chromatin and nuclear proteins in living cells with Hi-D.</a> Nature Protocols (2025).
+[1]	<strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Barth R.<span>&#42;</span>, Abdellah M.<span>&#42;</span>, Shaban H. A. <a style="color:blue" href="https://rdcu.be/dSfk9">Genome-wide analysis of the biophysical properties of chromatin and nuclear proteins in living cells with Hi-D.</a> Nature Protocols (2025).
 <p align="center">
    <img src="{{ site.baseurl }}/images/Screenshot_HiDpy.png" width="100%" > 
 </p>
 
-[2]	Papereux, S.<span>&#42;</span>, Leconte, L.<span>&#42;</span>, <strong>Valades-Cruz, C. A.</strong><span>&#42;</span>, Liu, T., Dumont, J., Chen, Z., Salamero, J., Kervrann, C., Badoual, A. <a style="color:blue" href="https://doi.org/10.1038/s42003-025-07684-x">DeepCristae, a CNN for the restoration of mitochondria cristae in live microscopy images.</a> Communications Biology (2025)
+[2]	Papereux S.<span>&#42;</span>, Leconte L.<span>&#42;</span>, <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Liu T., Dumont J., Chen Z., Salamero J., Kervrann C., Badoual A. <a style="color:blue" href="https://doi.org/10.1038/s42003-025-07684-x">DeepCristae, a CNN for the restoration of mitochondria cristae in live microscopy images.</a> Communications Biology (2025)
 <p align="center">
    <img src="{{ site.baseurl }}/images/DeepCristae_Mitochondria.png" width="50%" > 
 </p>
 
-[3]	Prigent, S.<span>&#42;</span>, <strong>Valades-Cruz, C. A.</strong><span>&#42;</span>, Leconte, L.<span>&#42;</span>, Maury, L., Salamero, J., Kervrann, C. <a style="color:blue" href="https://rdcu.be/cW6qq">BioImageIT: Open-source framework for integration of image data-management with analysis.</a> Nature Methods (2022).
+[3]	Prigent S.<span>&#42;</span>, <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Leconte L.<span>&#42;</span>, Maury L., Salamero J., Kervrann C. <a style="color:blue" href="https://rdcu.be/cW6qq">BioImageIT: Open-source framework for integration of image data-management with analysis.</a> Nature Methods (2022).
 <p align="center">
    <img src="{{ site.baseurl }}/images/BioImageIT_Tweet4.png" width="80%" > 
 </p>
 
-[4]	Vaz Rimoli, C.<span>&#42;</span>, <strong>Valades-Cruz, C. A.</strong><span>&#42;</span>, Curcio, V., Mavrakis, M., Brasselet, S. <a style="color:blue" href="https://www.nature.com/articles/s41467-022-27966-w">4polar-STORM polarized super-resolution imaging of actin filament organization in cells.</a> Nature Communications (2022). 
+[4]	Vaz Rimoli C.<span>&#42;</span>, <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Curcio V., Mavrakis M., Brasselet S. <a style="color:blue" href="https://www.nature.com/articles/s41467-022-27966-w">4polar-STORM polarized super-resolution imaging of actin filament organization in cells.</a> Nature Communications (2022). 
 <p align="center">
    <img src="{{ site.baseurl }}/images/15.jpg" width="100%" > 
 </p>
 
-[5] Shaban H<span>&#42;</span>, <strong>Valades-Cruz CA</strong><span>&#42;</span> , Savatier J, Brasselet S. <a style="color:blue" href="https://www.nature.com/articles/s41598-017-12864-9">Polarized super-resolution structural imaging inside amyloid fibrils using Thioflavine T.</a> Scientific Reports (2017).
+[5] Shaban H.<span>&#42;</span>, <strong>Valades-Cruz C. A.</strong><span>&#42;</span> , Savatier J., Brasselet S. <a style="color:blue" href="https://www.nature.com/articles/s41598-017-12864-9">Polarized super-resolution structural imaging inside amyloid fibrils using Thioflavine T.</a> Scientific Reports (2017).
 <p align="center">
    <img src="{{ site.baseurl }}/images/16.jpg" width="100%" > 
 </p>
 
-[6] <strong>Valades-Cruz CA</strong><span>&#42;</span>, Shaban H<span>&#42;</span> , Kress A, Bertaux N, Monneret S, Mavrakis M, Savatier J, Brasselet S. <a style="color:blue" href="https://www.pnas.org/content/113/7/E820">Quantitative nanoscale imaging of orientational order in biological filaments by polarized superresolution microscopy.</a> PNAS (2016). 
+[6] <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Shaban H.<span>&#42;</span> , Kress A., Bertaux N., Monneret S., Mavrakis M., Savatier J., Brasselet S. <a style="color:blue" href="https://www.pnas.org/content/113/7/E820">Quantitative nanoscale imaging of orientational order in biological filaments by polarized superresolution microscopy.</a> PNAS (2016). 
 <p align="center">
    <img src="{{ site.baseurl }}/images/17.jpg" width="100%" > 
 </p>
 
 #### <a style="color:red"> Corresponding author publications </a>
 
-[1]  Prigent S, <strong>Valades-Cruz CA</strong>, Leconte L, Salamero J, Kervrann C. <a style="color:blue" href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac365/6594114?guestAccessKey=e369f463-177b-4c5a-b034-6cf40faa35a7">STracking: a free and open-source Python library for particle tracking and analysis.</a> Bioinformatics (2022). 
+[1]  Prigent S., <strong>Valades-Cruz C. A.</strong>, Leconte L., Salamero J., Kervrann C. <a style="color:blue" href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac365/6594114?guestAccessKey=e369f463-177b-4c5a-b034-6cf40faa35a7">STracking: a free and open-source Python library for particle tracking and analysis.</a> Bioinformatics (2022). 
 <p align="center">
    <img src="{{ site.baseurl }}/images/38.jpg" width="95%" > 
 </p>
 
 #### <a style="color:red"> Other publications </a>
 
-[1] MacDonald, E., Forrester, A., <strong>Valades-Cruz, C. A.</strong>, Madsen, T. D., Hetmanski, J.H.R., Dransart, E., Ng, Y., Godbole, R., Shp, A. A., Leconte, L., Chambon, V., Ghosh, D., Pinet, A., Bhatia, D., Lombard, B., Loew, D., Larsen, M. R., Leffler, H., Lefeber, D. J., Clausen, H., Blangy, A., Caswell, P., Shafaq-Zadah, M., Mayor, S., Weigert, R., Wunder, C., Johannes, L. <a style="color:blue" href="https://doi.org/10.1038/s41556-025-01616-x">Growth factor-triggered de-sialylation controls glycolipid-lectin-driven endocytosis.</a> Nature Cell Biology (2025)
+[1]	Shafaq-Zadah M., Dransart E., Hamitouche I., Wunder C., Chambon V., <strong>Valades-Cruz C. A.</strong>, Leconte L., Sarangi N.K., Robinson J., Bai S-K., Regmi R., Di Cicco A., Hovasse A., Bartels R., Nilsson U. J., Cianférani-Sanglier S., Leffler H., Keyes T. E., Lévy D., Raunser S., Roderer D., Johannes L. <a style="color:blue" href="https://doi.org/10.1038/s41467-025-64523-7">Spatial N-glycan rearrangement on α5β1 integrin nucleates galectin-3 oligomers to determine endocytic fate.</a> Nature Communications (2025)
+<p align="center">
+   <img src="{{ site.baseurl }}/images/glycoswitch.png" width="95%" > 
+</p>
+
+[2] MacDonald E., Forrester A., <strong>Valades-Cruz C. A.</strong>, Madsen T. D., Hetmanski J. H. R., Dransart E., Ng Y., Godbole R., Shp A. A., Leconte L., Chambon V., Ghosh D., Pinet A., Bhatia D., Lombard B., Loew D., Larsen M. R., Leffler H., Lefeber D. J., Clausen H., Blangy A., Caswell P., Shafaq-Zadah M., Mayor S., Weigert R., Wunder C., Johannes L. <a style="color:blue" href="https://doi.org/10.1038/s41556-025-01616-x">Growth factor-triggered de-sialylation controls glycolipid-lectin-driven endocytosis.</a> Nature Cell Biology (2025)
 <p align="center">
    <img src="{{ site.baseurl }}/images/43.png" width="50%" > 
 </p>
 
-[2] Li, S-Y., He, C., <strong>Valades-Cruz, C.A.</strong>, Zhang, C-C., Yang, Y. <a style="color:blue" href="https://doi.org/10.1016/j.micres.2024.127967"> Phototactic signaling network in rod-shaped cyanobacteria: a study on Synechococcus elongatus UTEX 3055.</a> Microbiological Research (2025)
+[3] Li S-Y., He C., <strong>Valades-Cruz C. A.</strong>, Zhang C-C., Yang Y. <a style="color:blue" href="https://doi.org/10.1016/j.micres.2024.127967"> Phototactic signaling network in rod-shaped cyanobacteria: a study on Synechococcus elongatus UTEX 3055.</a> Microbiological Research (2025)
 <p align="center">
    <img src="{{ site.baseurl }}/images/Phototactic_img.png" width="60%" > 
 </p>
 
-[3] Lemaigre, C., Ceuppens, A., <strong>Valades-Cruz, C.A.</strong>, Ledoux, B., Vanbeneden, B., Hassan, M., Zetterberg, F.R., Nilsson, U.J., Johannes, L., Wunder, C., Renard, H.-F. and Morsomme, P. <a style="color:blue" href="https://doi.org/10.1111/tra.12883"> N-BAR and F-BAR proteins – Endophilin-A3 and PSTPIP1 – control clathrin-independent endocytosis of L1CAM.</a> Traffic (2023)
+[4] Lemaigre C., Ceuppens A., <strong>Valades-Cruz C. A.</strong>, Ledoux B., Vanbeneden B., Hassan M., Zetterberg F. R., Nilsson U. J., Johannes L., Wunder C., Renard H.-F. and Morsomme P. <a style="color:blue" href="https://doi.org/10.1111/tra.12883"> N-BAR and F-BAR proteins – Endophilin-A3 and PSTPIP1 – control clathrin-independent endocytosis of L1CAM.</a> Traffic (2023)
 <p align="center">
    <img src="{{ site.baseurl }}/images/cd171.jpg" width="70%" > 
 </p>
 
-[4]	Prigent, S., Nguyen, H-N., Leconte, L., <strong>Valades-Cruz, C. A.</strong>, Hajj, B., Salamero, J., Kervrann, C. <a style="color:blue" href="https://doi.org/10.1038/s41598-022-26178-y">SPITFIR(e): a supermaneuverable algorithm for fast denoising and deconvolution of 3D fluorescence microscopy images and videos.</a> Scientific Reports (2023)
+[5]	Prigent S., Nguyen H-N., Leconte L., <strong>Valades-Cruz C. A.</strong>, Hajj B., Salamero J., Kervrann C. <a style="color:blue" href="https://doi.org/10.1038/s41598-022-26178-y">SPITFIR(e): a supermaneuverable algorithm for fast denoising and deconvolution of 3D fluorescence microscopy images and videos.</a> Scientific Reports (2023)
 <p align="center">
    <img src="{{ site.baseurl }}/images/25.jpg" width="70%" > 
 </p>
 
-[5]	Forrester A, Rathjen S, Garcia-Castillo MD, Bachert C, Couhert A, Tepshi L, Pichard S, Martinez J, Munier M, Sierocki R, Renard HF, <strong>Valades-Cruz CA</strong>, Dingli F, Loew D, Lamaze C, Cintrat JC, Linstedt A, Gillet D, Barbier J, Johannes L. <a style="color:blue" href="https://www.nature.com/articles/s41589-020-0474-4">Functional Dissection of the Retrograde Shiga Toxin Trafficking Inhibitor Retro-2.</a> Nature Chemical Biology (2020).
+[6]	Forrester A., Rathjen S., Garcia-Castillo M. D., Bachert C., Couhert A., Tepshi L., Pichard S., Martinez J., Munier M., Sierocki R., Renard H. F., <strong>Valades-Cruz C. A.</strong>, Dingli F., Loew D., Lamaze C., Cintrat J. C., Linstedt A., Gillet D., Barbier J., Johannes L. <a style="color:blue" href="https://www.nature.com/articles/s41589-020-0474-4">Functional Dissection of the Retrograde Shiga Toxin Trafficking Inhibitor Retro-2.</a> Nature Chemical Biology (2020).
 <p align="center">
    <img src="{{ site.baseurl }}/images/24.jpg" width="40%" > 
 </p>
 
-[6]	Renard, H-F, Tyckaert, F., Lo Giudice, C., Hirsch, T., <strong>Valades-Cruz, C. A.</strong>, Lemaigre, C., Shafaq-Zadah, M., Wunder, C., Wattiez, R., Johannes, L., van der Bruggen, P., Alsteens, D., Morsomme, P. <a style="color:blue" href="https://www.nature.com/articles/s41467-020-15303-y">Endophilin-A3 and Galectin-8 control the clathrin-independent endocytosis of CD166.</a> Nature Communications (2020). 
+[7]	Renard H-F., Tyckaert F., Lo Giudice C., Hirsch T., <strong>Valades-Cruz C. A.</strong>, Lemaigre C., Shafaq-Zadah M., Wunder C., Wattiez R., Johannes L., van der Bruggen P., Alsteens D., Morsomme P. <a style="color:blue" href="https://www.nature.com/articles/s41467-020-15303-y">Endophilin-A3 and Galectin-8 control the clathrin-independent endocytosis of CD166.</a> Nature Communications (2020). 
 <p align="center">
    <img src="{{ site.baseurl }}/images/20.jpg" width="80%" > 
 </p>
 
-[7]	Briane V, Vimond M, <strong>Valades-Cruz CA</strong>, Salomon A, Wunder C, Kervrann C. <a style="color:blue" href="https://academic.oup.com/bioinformatics/article/36/1/317/5520435">A sequential algorithm to detect diffusion switching along intracellular particle trajectories.</a> Bioinformatics (2020). 
+[8]	Briane V., Vimond M., <strong>Valades-Cruz C. A.</strong>, Salomon A., Wunder C., Kervrann C. <a style="color:blue" href="https://academic.oup.com/bioinformatics/article/36/1/317/5520435">A sequential algorithm to detect diffusion switching along intracellular particle trajectories.</a> Bioinformatics (2020). 
 <p align="center">
    <img src="{{ site.baseurl }}/images/19.jpg" width="80%" > 
 </p>
 
-[8]	Torrino S, Shen W, Blouin C, Kailasam Mani S., Viaris de Lesegno C, Bost P, Grassard A, Köster D, <strong>Valades-Cruz CA</strong>, Chambon V, Johannes L, Pierobon P, Soumelis V, Coirault C, Vassilopoulos S, Lamaze C. <a style="color:blue" href="https://doi.org/10.1083/jcb.201801122">EHD2 is a mechanotransducer connecting caveolae dynamics with gene transcription.</a> J Cell Biol. (2018). 
+[9]	Torrino S., Shen W., Blouin C., Kailasam Mani S., Viaris de Lesegno C., Bost P., Grassard A., Köster D., <strong>Valades-Cruz C. A.</strong>, Chambon V., Johannes L., Pierobon P., Soumelis V., Coirault C., Vassilopoulos S., Lamaze C. <a style="color:blue" href="https://doi.org/10.1083/jcb.201801122">EHD2 is a mechanotransducer connecting caveolae dynamics with gene transcription.</a> J Cell Biol. (2018). 
 <p align="center">
    <img src="{{ site.baseurl }}/images/18.jpg" width="100%" > 
 </p>
 
-[9] Banerjee A, Grazon C, Pons T, Bhatia D, <strong>Valades-Cruz CA</strong>, Johannes L, Krishnan Y, Dubertret B. <a style="color:blue" href="https://pubs.rsc.org/en/content/articlelanding/2017/NR/C7NR05838A">A Novel Type of Quantum Dot–Transferrin Conjugate Using DNA Hybridization Mimics Intracellular Recycling of Endogenous Transferrin.</a> Nanoscale (2018). 
+[10] Banerjee A., Grazon C., Pons T., Bhatia D., <strong>Valades-Cruz C. A.</strong>, Johannes L., Krishnan Y., Dubertret B. <a style="color:blue" href="https://pubs.rsc.org/en/content/articlelanding/2017/NR/C7NR05838A">A Novel Type of Quantum Dot–Transferrin Conjugate Using DNA Hybridization Mimics Intracellular Recycling of Endogenous Transferrin.</a> Nanoscale (2018). 
 <p align="center">
    <img src="{{ site.baseurl }}/images/22.jpg" width="80%" > 
 </p>
 
 #### <a style="color:red"> Reviews, Perspective & Comments </a>
 
-[1]   <strong>Valades-Cruz CA</strong><span>&#42;</span>, Leconte L<span>&#42;</span>, Fouche G<span>&#42;</span>, Blanc T<span>&#42;</span>, Van Hille N<span>&#42;</span>, Fournier K, Laurent T, Gallean B, Deslandes F, Hajj B, Faure E, Argelaguet F, Trubuil A, Isenberg T, Masson J-B, Salamero J, Kervrann C <a style="color:blue" href="https://www.frontiersin.org/articles/10.3389/fbinf.2022.997082/full"> Challenges of intracellular visualization using virtual and augmented reality. </a> Frontiers in Bioinformatics (2022). 
+[1]   <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Leconte L.<span>&#42;</span>, Fouche G.<span>&#42;</span>, Blanc T.<span>&#42;</span>, Van Hille N.<span>&#42;</span>, Fournier K., Laurent T., Gallean B., Deslandes F., Hajj B., Faure E., Argelaguet F., Trubuil A., Isenberg T., Masson J-B., Salamero J., Kervrann C. <a style="color:blue" href="https://www.frontiersin.org/articles/10.3389/fbinf.2022.997082/full"> Challenges of intracellular visualization using virtual and augmented reality. </a> Frontiers in Bioinformatics (2022). 
 <p align="center">
    <img src="{{ site.baseurl }}/images/40b.jpg" width="80%" > 
 </p>
 
-[2]	Johannes L, <strong>Valades-Cruz CA</strong> <a style="color:blue" href="https://www.nature.com/articles/s41556-021-00711-z">The final twist in endocytic membrane scission.</a> Nature Cell Biology (2021).
+[2]	Johannes L., <strong>Valades-Cruz C. A.</strong> <a style="color:blue" href="https://www.nature.com/articles/s41556-021-00711-z">The final twist in endocytic membrane scission.</a> Nature Cell Biology (2021).
 <p align="center">
    <img src="{{ site.baseurl }}/images/23.jpg" width="80%" > 
 </p>
@@ -114,13 +119,7 @@ permalink: /publications/
 
 #### <a style="color:red"> Preprints and submitted papers </a>
 
-[1] Senthil Kumar, C. S.<span>&#42;</span>, <strong>Valades Cruz, C. A.</strong><span>&#42;</span>, Sison, M. <span>&#42;</span>, Vesga, A. G., Rey-Barroso, J., Curcio, V., Alemán-Castañeda, L. A., Alonso, M. A., Poincloux, R., Mavrakis, M., Brasselet, S. <a style="color:blue" href="https://www.biorxiv.org/content/10.1101/2025.07.13.664601">4polar3D: Single molecule 3D orientation imaging of dense actin networks using ratiometric polarization splitting.</a> bioRxiv (2025)
+[1] Senthil Kumar C. S.<span>&#42;</span>, <strong>Valades Cruz C. A.</strong><span>&#42;</span>, Sison M. <span>&#42;</span>, Vesga A. G., Rey-Barroso J., Curcio V., Alemán-Castañeda L. A., Alonso M. A., Poincloux R., Mavrakis M., Brasselet S. <a style="color:blue" href="https://www.biorxiv.org/content/10.1101/2025.07.13.664601">4polar3D: Single molecule 3D orientation imaging of dense actin networks using ratiometric polarization splitting.</a> bioRxiv (2025)
 <p align="center">
    <img src="{{ site.baseurl }}/images/4polar3D_img.jpg" width="70%" > 
-</p>
-
-
-[2]	Shafaq-Zadah, M., Dransart, E., Wunder, C., Chambon, V., <strong>Valades-Cruz, C. A.</strong>, Leconte, L., Sarangi, N. K., Robinson, J., Bai, S-K., Regmi, R., Di Cicco, A., Hovasse, A., Bartels, R., Nilsson, U.J., Cianférani-Sanglier, S., Leffler, H., Keyes, T. E., Lévy, D., Raunser, S., Roderer, D., Johannes, L. <a style="color:blue" href="https://doi.org/10.1101/2023.10.27.564026">Spatial N-glycan rearrangement on α5β1 integrin nucleates galectin-3 oligomers to determine endocytic fate.</a> bioRxiv (2023)
-<p align="center">
-   <img src="{{ site.baseurl }}/images/44.png" width="50%" > 
 </p>
