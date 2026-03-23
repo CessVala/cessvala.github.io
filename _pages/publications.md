@@ -9,32 +9,37 @@ permalink: /publications/
 
 #### <a style="color:red"> First author publications </a>
 
-[1]	<strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Barth R.<span>&#42;</span>, Abdellah M.<span>&#42;</span>, Shaban H. A. <a style="color:blue" href="https://rdcu.be/dSfk9">Genome-wide analysis of the biophysical properties of chromatin and nuclear proteins in living cells with Hi-D.</a> Nature Protocols (2025).
+[1] Senthil Kumar C. S.<span>&#42;</span>, <strong>Valades Cruz C. A.</strong><span>&#42;</span>, Sison M. <span>&#42;</span>, Vesga A. G., Rey-Barroso J., Curcio V., Alemán-Castañeda L. A., Alonso M. A., Poincloux R., Mavrakis M., Brasselet S. <a style="color:blue" href="https://www.nature.com/articles/s41467-026-70852-y">4polar3D single molecule imaging of 3D orientation in dense actin networks using ratiometric polarization splitting.</a> Nature Communications (2026)
+<p align="center">
+   <img src="{{ site.baseurl }}/images/4polar3D_img.jpg" width="70%" > 
+</p>
+
+[2]	<strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Barth R.<span>&#42;</span>, Abdellah M.<span>&#42;</span>, Shaban H. A. <a style="color:blue" href="https://rdcu.be/dSfk9">Genome-wide analysis of the biophysical properties of chromatin and nuclear proteins in living cells with Hi-D.</a> Nature Protocols (2025).
 <p align="center">
    <img src="{{ site.baseurl }}/images/Screenshot_HiDpy.png" width="100%" > 
 </p>
 
-[2]	Papereux S.<span>&#42;</span>, Leconte L.<span>&#42;</span>, <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Liu T., Dumont J., Chen Z., Salamero J., Kervrann C., Badoual A. <a style="color:blue" href="https://doi.org/10.1038/s42003-025-07684-x">DeepCristae, a CNN for the restoration of mitochondria cristae in live microscopy images.</a> Communications Biology (2025)
+[3]	Papereux S.<span>&#42;</span>, Leconte L.<span>&#42;</span>, <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Liu T., Dumont J., Chen Z., Salamero J., Kervrann C., Badoual A. <a style="color:blue" href="https://doi.org/10.1038/s42003-025-07684-x">DeepCristae, a CNN for the restoration of mitochondria cristae in live microscopy images.</a> Communications Biology (2025)
 <p align="center">
    <img src="{{ site.baseurl }}/images/DeepCristae_Mitochondria.png" width="50%" > 
 </p>
 
-[3]	Prigent S.<span>&#42;</span>, <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Leconte L.<span>&#42;</span>, Maury L., Salamero J., Kervrann C. <a style="color:blue" href="https://rdcu.be/cW6qq">BioImageIT: Open-source framework for integration of image data-management with analysis.</a> Nature Methods (2022).
+[4]	Prigent S.<span>&#42;</span>, <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Leconte L.<span>&#42;</span>, Maury L., Salamero J., Kervrann C. <a style="color:blue" href="https://rdcu.be/cW6qq">BioImageIT: Open-source framework for integration of image data-management with analysis.</a> Nature Methods (2022).
 <p align="center">
    <img src="{{ site.baseurl }}/images/BioImageIT_Tweet4.png" width="80%" > 
 </p>
 
-[4]	Vaz Rimoli C.<span>&#42;</span>, <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Curcio V., Mavrakis M., Brasselet S. <a style="color:blue" href="https://www.nature.com/articles/s41467-022-27966-w">4polar-STORM polarized super-resolution imaging of actin filament organization in cells.</a> Nature Communications (2022). 
+[5]	Vaz Rimoli C.<span>&#42;</span>, <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Curcio V., Mavrakis M., Brasselet S. <a style="color:blue" href="https://www.nature.com/articles/s41467-022-27966-w">4polar-STORM polarized super-resolution imaging of actin filament organization in cells.</a> Nature Communications (2022). 
 <p align="center">
    <img src="{{ site.baseurl }}/images/15.jpg" width="100%" > 
 </p>
 
-[5] Shaban H.<span>&#42;</span>, <strong>Valades-Cruz C. A.</strong><span>&#42;</span> , Savatier J., Brasselet S. <a style="color:blue" href="https://www.nature.com/articles/s41598-017-12864-9">Polarized super-resolution structural imaging inside amyloid fibrils using Thioflavine T.</a> Scientific Reports (2017).
+[6] Shaban H.<span>&#42;</span>, <strong>Valades-Cruz C. A.</strong><span>&#42;</span> , Savatier J., Brasselet S. <a style="color:blue" href="https://www.nature.com/articles/s41598-017-12864-9">Polarized super-resolution structural imaging inside amyloid fibrils using Thioflavine T.</a> Scientific Reports (2017).
 <p align="center">
    <img src="{{ site.baseurl }}/images/16.jpg" width="100%" > 
 </p>
 
-[6] <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Shaban H.<span>&#42;</span> , Kress A., Bertaux N., Monneret S., Mavrakis M., Savatier J., Brasselet S. <a style="color:blue" href="https://www.pnas.org/content/113/7/E820">Quantitative nanoscale imaging of orientational order in biological filaments by polarized superresolution microscopy.</a> PNAS (2016). 
+[7] <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Shaban H.<span>&#42;</span> , Kress A., Bertaux N., Monneret S., Mavrakis M., Savatier J., Brasselet S. <a style="color:blue" href="https://www.pnas.org/content/113/7/E820">Quantitative nanoscale imaging of orientational order in biological filaments by polarized superresolution microscopy.</a> PNAS (2016). 
 <p align="center">
    <img src="{{ site.baseurl }}/images/17.jpg" width="100%" > 
 </p>
@@ -119,7 +124,3 @@ permalink: /publications/
 
 #### <a style="color:red"> Preprints and submitted papers </a>
 
-[1] Senthil Kumar C. S.<span>&#42;</span>, <strong>Valades Cruz C. A.</strong><span>&#42;</span>, Sison M. <span>&#42;</span>, Vesga A. G., Rey-Barroso J., Curcio V., Alemán-Castañeda L. A., Alonso M. A., Poincloux R., Mavrakis M., Brasselet S. <a style="color:blue" href="https://www.biorxiv.org/content/10.1101/2025.07.13.664601">4polar3D: Single molecule 3D orientation imaging of dense actin networks using ratiometric polarization splitting.</a> bioRxiv (2025)
-<p align="center">
-   <img src="{{ site.baseurl }}/images/4polar3D_img.jpg" width="70%" > 
-</p>
