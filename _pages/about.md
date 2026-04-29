@@ -128,7 +128,7 @@ image: me2.jpg
 <div class="timeline">
 
 <div class="timeline-item">
-  <span class="timeline-date">2010</span>
+  <span class="timeline-date">2010 – 2014</span>
   <div class="timeline-role">PhD in Biophotonics</div>
   <div class="timeline-team">Erasmus Mundus Europhotonics · Sophie Brasselet's group (Aix-Marseille University / Institut Fresnel, France) & Pablo Loza's group (UPC Barcelona / ICFO, Spain)</div>
   <p align="center" style="margin-top: 10px;">
@@ -137,7 +137,7 @@ image: me2.jpg
 </div>
 
 <div class="timeline-item">
-  <span class="timeline-date">2009</span>
+  <span class="timeline-date">2009 – 2011</span>
   <div class="timeline-role">MEng in Quality Systems and Productivity</div>
   <div class="timeline-team">Tec de Monterrey, Mexico</div>
   <p align="center" style="margin-top: 10px;">
@@ -146,7 +146,7 @@ image: me2.jpg
 </div>
 
 <div class="timeline-item">
-  <span class="timeline-date">2008</span>
+  <span class="timeline-date">2008 – 2010</span>
   <div class="timeline-role">MSc in Biophotonics</div>
   <div class="timeline-team">Erasmus Mundus Monabiphot · ENS Paris-Saclay (formerly ENS Cachan), France & Complutense University of Madrid, Spain</div>
   <p align="center" style="margin-top: 10px;">
@@ -155,7 +155,7 @@ image: me2.jpg
 </div>
 
 <div class="timeline-item">
-  <span class="timeline-date">2003</span>
+  <span class="timeline-date">2003 – 2008</span>
   <div class="timeline-role">BSc in Mechatronics Engineering</div>
   <div class="timeline-team">Tec de Monterrey, Mexico · Internship: Sant'Anna School of Advanced Studies, Italy</div>
   <p align="center" style="margin-top: 10px;">
