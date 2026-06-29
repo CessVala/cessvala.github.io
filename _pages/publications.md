@@ -105,12 +105,17 @@ permalink: /publications/
 
 #### <a style="color:red"> Reviews, Perspective & Comments </a>
 
-[1]   <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Leconte L.<span>&#42;</span>, Fouche G.<span>&#42;</span>, Blanc T.<span>&#42;</span>, Van Hille N.<span>&#42;</span>, Fournier K., Laurent T., Gallean B., Deslandes F., Hajj B., Faure E., Argelaguet F., Trubuil A., Isenberg T., Masson J-B., Salamero J., Kervrann C. <a style="color:blue" href="https://www.frontiersin.org/articles/10.3389/fbinf.2022.997082/full"> Challenges of intracellular visualization using virtual and augmented reality. </a> Frontiers in Bioinformatics (2022). 
+[1]   Ambroset M., <strong>Valades-Cruz C. A.</strong>, Tonfack L. B., D'Antuono R., Fuster-Barceló C.<a style="color:blue" href="https://doi.org/10.1111/jmi.70125"> Assessing the reproducibility of a bioimage analysis workflow characterising tissue flow in *Drosophila*. </a> Journal of Microscopy (2026). 
+<p align="center">
+   <img src="{{ site.baseurl }}/images/logo_globias.png" width="40%" > 
+</p>
+
+[2]   <strong>Valades-Cruz C. A.</strong><span>&#42;</span>, Leconte L.<span>&#42;</span>, Fouche G.<span>&#42;</span>, Blanc T.<span>&#42;</span>, Van Hille N.<span>&#42;</span>, Fournier K., Laurent T., Gallean B., Deslandes F., Hajj B., Faure E., Argelaguet F., Trubuil A., Isenberg T., Masson J-B., Salamero J., Kervrann C. <a style="color:blue" href="https://www.frontiersin.org/articles/10.3389/fbinf.2022.997082/full"> Challenges of intracellular visualization using virtual and augmented reality. </a> Frontiers in Bioinformatics (2022). 
 <p align="center">
    <img src="{{ site.baseurl }}/images/40b.jpg" width="80%" > 
 </p>
 
-[2]	Johannes L., <strong>Valades-Cruz C. A.</strong> <a style="color:blue" href="https://www.nature.com/articles/s41556-021-00711-z">The final twist in endocytic membrane scission.</a> Nature Cell Biology (2021).
+[3]	Johannes L., <strong>Valades-Cruz C. A.</strong> <a style="color:blue" href="https://www.nature.com/articles/s41556-021-00711-z">The final twist in endocytic membrane scission.</a> Nature Cell Biology (2021).
 <p align="center">
    <img src="{{ site.baseurl }}/images/23.jpg" width="80%" > 
 </p>
