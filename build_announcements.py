@@ -193,6 +193,52 @@ def make_article(item: dict, language: str, all_records: dict[str, dict]):
     else:
         for el in card:
             el.drop_tree()
+    # Replace template-specific media, CTA, and nested metadata.
+    for image in tree.xpath("//figure[contains(@class,'post-media')]//img"):
+        if item.get("image"):
+            image.set("src", item["image"])
+            image.set("alt", item.get("image_alt_zh" if is_chinese else "image_alt_en", item["paper_title"]))
+        else:
+            image.getparent().drop_tree()
+    for link in section.xpath(".//a[contains(@class,'pub-cta')]"):
+        if item.get("paper_url"):
+            link.set("href", item["paper_url"])
+            link.text = "阅读论文 ↗" if is_chinese else "Read the paper ↗"
+        else:
+            link.drop_tree()
+    for metadata in section.xpath(".//div[contains(@class,'pub-meta')]"):
+        for child in list(metadata):
+            metadata.remove(child)
+        metadata.text = format_date(item["date"], language)
+    for alternate in tree.xpath("//link[@rel='alternate']"):
+        alternate.set("href", ("" if is_chinese else "/zh") + "/announcements/" + slug + "/")
+    for switch in tree.xpath("//a[contains(@class,'language-switch')]"):
+        switch.set("href", ("" if is_chinese else "/zh") + "/announcements/" + slug + "/")
+
+    if is_chinese:
+        for back in tree.xpath("//a[contains(@class,'post-back')]"):
+            back.text = "← 全部动态"
+
+    # Keep announcement copy readable and the paper link clear of paragraphs.
+    for intro in section.xpath("./p[contains(@class,'pub-intro')]"):
+        intro.drop_tree()
+    for card in section.xpath("./div[contains(concat(' ',normalize-space(@class),' '),' pub-card ')]"):
+        section.append(card)
+    for cta in section.xpath("./a[contains(@class,'pub-cta')]"):
+        section.append(cta)
+    layout_style = html.Element("style", id="announcement-readable-layout")
+    layout_style.text = """
+    .publication-post .pub-announcement {font-family:inherit;}
+    .publication-post .pub-announcement .pub-title {font-family:inherit;font-size:clamp(1.25rem,3vw,1.65rem);line-height:1.4;margin:12px 0 20px;letter-spacing:-.02em;}
+    .publication-post .pub-announcement .pub-description {font-family:inherit;font-size:1.05rem;line-height:1.75;margin:0 0 1.2rem;}
+    .publication-post .pub-announcement .pub-card {margin:24px 0 32px;}
+    .publication-post .pub-announcement .pub-journal {text-transform:none;}
+    .publication-post .pub-announcement .pub-cta {display:flex;width:fit-content;position:static;float:none;clear:both;margin:24px 0 0;line-height:1.5;}
+    """
+    for old in tree.xpath("//style[@id='announcement-readable-layout']"):
+        old.drop_tree()
+    tree.xpath("//head")[0].append(layout_style)
+
     previous = [r for r in sorted(all_records.values(), key=lambda r:r["date"], reverse=True) if r["date"] < item["date"]]
     links = tree.xpath("//main//div[contains(@class,'page-layout')]/p[last()]/a")
     if len(links) > 1:

@@ -137,7 +137,7 @@ PAGES = {
         "Data management and analysis tools at the Light Sheet Fluorescence Microscopy workshop.": "光片荧光显微成像研讨会上的数据管理与分析工具。",
         "Special Expert.": "特需外国人才。",
         "Mexican National Research System": "墨西哥国家研究人员体系",
-        "SNI Level 1 (2020–2024); Candidato through the Mexican Diaspora Chairs Program (appointment begins in 2027).": "2020—2024 年为 SNI 一级；通过墨西哥侨民讲席计划获 Candidato 资格（2027 年起）。",
+        "SNI Level 1 (2020–2024); Candidato through the Mexican Diaspora Chairs Program (2027–2030).": "2020—2024 年为 SNI 一级；通过墨西哥侨民讲席计划获 Candidato 资格（2027—2030 年）。",
         "Graduate fellowships": "研究生阶段奖学金",
         "Erasmus Mundus PhD fellowship (2010–2014); Erasmus Mundus and CONACyT Master’s fellowships (2008–2010).": "Erasmus Mundus 博士奖学金（2010—2014）；Erasmus Mundus 和 CONACyT 硕士奖学金（2008—2010）。",
         "GloBIAS Scientific Advisory Committee": "GloBIAS 科学顾问委员会",
